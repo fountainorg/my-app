@@ -82,4 +82,4 @@ tolerations: []
 affinity: {}
 
 env:
-  APP_VERSION: 4986e725f7bfb3d1f4a033d61a1a291b2b81819d
+  APP_VERSION: 0a5f388649aa7f793abc621571f547f04b7f0aa2
